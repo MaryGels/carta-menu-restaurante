@@ -1,0 +1,10 @@
+.carousel.slide{
+background-color: #F2A900;
+}
+
+.carousel-caption{
+    width: 70%;
+ background-color: #94550e;
+opacity: 0.6;
+border-radius: 2em;
+}
