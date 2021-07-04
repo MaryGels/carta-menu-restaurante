@@ -1,0 +1,21 @@
+
+#form{
+    width:80%;
+	margin-top:1%;
+	vertical-align:top;
+	padding:8%;
+   
+}
+fieldset{
+    border-radius:8px;
+    border-color:#351f03;
+    background-color: rgba(248, 184, 34, 0.8);
+}
+
+.bloque{
+	margin-top:1%;
+	text-align:center;
+	margin-left:2%;
+	margin-right:2%;
+}
+

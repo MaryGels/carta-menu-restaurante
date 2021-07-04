@@ -43,6 +43,39 @@
 
 .btn.active {
   background-color: #F2A900;
-  color: white;
+  color: rgb(240, 209, 110);
   border-color: #27251F;
+}
+/*Estilo del footer de Tatiana y M angeles*/
+
+#footer{
+width:95%;
+background-color:#F2A900;
+text-align:justify;
+margin-left:3%;
+vertical-align:top;
+padding:1%; 
+}
+.borde {
+	border-color:#351f03;
+	border-style:Solid;
+	border-width:3px;
+	border-radius:8px;
+	}
+#box4{
+width:18%;
+display:inline-block;
+  vertical-align:top;
+padding:1%;	
+text-align:justify;
+}
+
+#footer a{ 
+  color: #351f03;
+} 
+#footer a:hover{
+  color: #af672c;
+}
+#footer h5{
+  color: #351f03;
 }
