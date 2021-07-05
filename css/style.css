@@ -61,8 +61,40 @@ padding:1%;
 	border-style:Solid;
 	border-width:3px;
 	border-radius:8px;
-	}
-#box4{
+}
+.bloque{
+  
+	margin-top:1%;
+	text-align:center;
+	margin-left:6%;
+	margin-right:2%;
+  display:inline-block;
+}
+
+.cont-imag{
+  display:inline-block;
+  vertical-align:top;
+  padding:1%;	
+}
+  .imag:hover{
+
+      border-radius:50%;
+      -webkit-border-radius:50%;
+      box-shadow: 0px 0px 15px 15px #ec731e;
+      -webkit-box-shadow: 0px 0px 15px 15px #ec731e;
+      transform: rotate(360);
+      -webkit-transform: rotate(360deg);   
+  }
+
+.imagen:hover{
+border-radius:50%;
+-webkit-border-radius:50%;
+box-shadow: 0px 0px 15px 15px #ec731e;
+-webkit-box-shadow: 0px 0px 15px 15px #ec731e;
+transform: rotate(360deg);
+-webkit-transform: rotate(360deg);
+}
+.box-footer{
 width:18%;
 display:inline-block;
   vertical-align:top;
